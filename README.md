@@ -46,6 +46,14 @@ I used Go to solve these challenges.
 You can navigate in the directory structure and run `go run *.go` to retrieve the solutions.
 Note that each participant gets a different dataset to work on, therefore, the answers of "my" challenges may not be the same as yours. In that case, you'll need to update the `input.txt` file with your puzzle input.
 
+### Disclaimers
+
+Some of these mind twisting challenges may remain unsolved unfortunately.
+
+Some of the answers to these challenges are not optimized, meaning that it might be necessary to let the script run for a long time before getting the answer of the challenge. I tried to focus on solving the challenges in the first place, and then, if time allows me, I can spend time in solving the challenges _in a good way_. The objective being to take some pleasure in this experience, I really looked for the "excitement rush" of getting the answers right rather than getting the answers beautifully. The objective is to learn things and to have fun after all.
+
+Finally, most of the comments in the code are coming from LLMs which are great tools to write comments and document the code. I use LLMs only to write comments and don't rely on these tools to solve the challenges.
+
 ## Contact information
 
 You can contact me via:
