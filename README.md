@@ -26,8 +26,8 @@ day01
 │   ├── main.go
 │   └── README.md
 └── 02_1
-	├── main.go
-	└── README.md
+    ├── main.go
+    └── README.md
 ```
 
 - `input.txt`: The input data provided by the Advent of Code system for the day's challenge.
