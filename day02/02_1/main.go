@@ -10,6 +10,9 @@ import (
 
 // retrievePuzzleInput reads the puzzle input from a file at the specified path.
 // It returns the content of the file as a string or an error if the file cannot be read.
+//
+// p: The path to the file containing the puzzle input.
+// Returns: A string containing the file content, or an error if the file cannot be read.
 func retrievePuzzleInput(p string) (string, error) {
 	// Read the entire content of the file into a byte slice.
 	d, err := os.ReadFile(p)
