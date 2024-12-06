@@ -15,6 +15,17 @@ The challenges are designed to be solved in any programming language and cover a
 
 Each day's challenge is divided into two parts, with the second part typically building upon the first part in some way. The challenges are designed to be approachable for beginners, but also offer a challenge for more experienced programmers.
 
+### Recap of the challenges
+
+| Day 	| Part 01 	| Part 02 	|
+|-----	|:-------:	|:-------:	|
+| 01  	|    ✅    	|    ✅    	|
+| 02  	|    ✅    	|    ✅    	|
+| 03  	|    ✅    	|    ✅    	|
+| 04  	|    ✅    	|    ✅    	|
+| 05  	|    ✅    	|    😡    	|
+| 06  	|    ✅    	|    ✅    	|
+
 ### Directory structure
 
 Each day of the Advent of Code challenge is organized into its own directory, named dayXX, where XX is the day of the challenge (e.g., day01, day02, etc.). Inside most of the day's directories, you will find the following files:
